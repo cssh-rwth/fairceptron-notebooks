@@ -20,7 +20,7 @@ After generating and exporting the scenarios in JSON format, they are used to po
 
 ## Fairness perception analysis
 
-These notebooks represent examples of how data obtained from a FairCeptron survey could be analyzed. Beforehand, participants' responses must be exported from MongoDB in CSV (or JSON) format. This repo includes demo data and notebooks for the following analyses:
+These notebooks represent examples of how data obtained from a FairCeptron survey could be analyzed. Beforehand, participants' responses must be exported from MongoDB in CSV (or JSON) format. This repo includes notebooks for the following analyses:
 
 - **participant statistics**: general statistics on demographics of users who completed the survey
 - **significance**: significant spearman correlations between user ratings and all features for selection and ranking questions
